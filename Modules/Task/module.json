@@ -1,0 +1,12 @@
+{
+    "name": "Task",
+    "alias": "task",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Task\\Providers\\TaskServiceProvider",
+        "Modules\\Task\\Providers\\CommentServiceProvider"
+    ],
+    "files": []
+}
